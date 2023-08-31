@@ -16,7 +16,7 @@ const news = [
     image: 'assets/images/noticia/not03.jpg'
   },  
   {
-    title: 'Premiação - Rodrigo Lukasavikus',
+    title: 'Premiação - Rodrigo Lukasavicus',
     description: 'Em reconhecimento pelos inestimáveis e excepcionais serviços à coletividade.',
     image: 'assets/images/noticia/not04.jpg'
   },
