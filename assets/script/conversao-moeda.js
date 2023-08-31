@@ -2,7 +2,7 @@ const exchangeRateElement = document.getElementById('dollar_hoje');
 const currencies = [
   { code: 'USD', name: 'Dolar' },
   { code: 'EUR', name: 'Euro' },
-  { code: 'GBP', name: 'Libras' },
+  { code: 'GBP', name: 'Libra' },
   { code: 'BTC', name: 'Bitcoin' },
   { code: 'ETH', name: 'Ethereum' }
 ];
