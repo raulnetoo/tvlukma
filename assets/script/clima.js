@@ -20,7 +20,8 @@ const weatherDescriptions = {
   'trovoada': 'Trovoada',
   'neve': 'Neve',
   'névoa': 'Nublado',
-  'algumas nuvens': 'Algumas nuvens'
+  'algumas nuvens': 'Algumas nuvens',
+  'trovoada com chuva fraca': 'Trovoada com chuva'
 };
 
 function getWeatherImageURL(description) {
@@ -36,7 +37,8 @@ function getWeatherImageURL(description) {
       'trovoada': 'assets/images/tempo/trovoada.gif',
       'neve': 'assets/images/tempo/neve.gif',
       'névoa': 'assets/images/tempo/nublado.gif',
-      'algumas nuvens': 'assets/images/tempo/poucas-nuvens.gif'
+      'algumas nuvens': 'assets/images/tempo/poucas-nuvens.gif',
+      'trovoada com chuva fraca': 'assets/images/tempo/chuva.gif'
   };
 
   return weatherImageMap[description] || 'default.png';
