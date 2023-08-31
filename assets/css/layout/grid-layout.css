@@ -24,20 +24,20 @@
 
 .aniversariante {
   grid-row: 6/7;
-  grid-column: 1/4;
+  grid-column: 1/3;
 }
 
 .dollar_hoje {
   grid-row: 6/7;
-  grid-column: 4/5;
+  grid-column: 3/4;
 }
 
 .hora_mundial {
   grid-row: 6/7;
-  grid-column: 5/6;
+  grid-column: 4/5;
 }
 
 .prev_tempo {
   grid-row: 6/7;
-  grid-column: 6/7;
+  grid-column: 5/7;
 }
