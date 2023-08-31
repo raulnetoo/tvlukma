@@ -64,3 +64,4 @@ function updateWeatherWidget() {
 }
 
 updateWeatherWidget();
+setInterval(updateWeatherWidget, 10000); // 60000 ms = 60 s
