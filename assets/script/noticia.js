@@ -8,12 +8,17 @@ const news = [
   {
     title: 'Embaixador da Multieletrica',
     description: 'Fabiano Hayasaki arquiteto se torna Embaixador oficial da Multieletrica.',
-    image: 'assets/images/noticia/not02.jpg'
+    image: 'assets/images/noticia/not02.png'
   },
   {
     title: 'Garoto Propaganda',
     description: 'Neto o craque, ex jogador, comentarista é o novo Garoto Propaganda da Multieletrica.',
     image: 'assets/images/noticia/not03.jpg'
+  },  
+  {
+    title: 'Premiação - Rodrigo Lukasavikus',
+    description: 'Em reconhecimento pelos inestimáveis e excepcionais serviços à coletividade.',
+    image: 'assets/images/noticia/not04.jpg'
   },
   // ... Adicione mais notícias conforme necessário
 ];
