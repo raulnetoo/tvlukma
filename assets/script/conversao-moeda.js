@@ -25,6 +25,7 @@ async function fetchExchangeRate(currency) {
     }
 
     exchangeRateElement.innerHTML = `
+      <h1 class="title">Câmbio</h1>
       <span class="dollar-text">
         1 ${currencyInfo.name}
         <img src="assets/images/bandeira/${currency}.png" alt="${currencyInfo.name}">
