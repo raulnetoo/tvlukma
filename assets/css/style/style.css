@@ -73,6 +73,10 @@ body, html {
   flex-direction: column;
 }
 
+.icon_aniversariante {
+  width: 10rem;
+  margin: auto;
+}
 /* cotacao dolar */
 .dollar_hoje {
   text-align: center;
