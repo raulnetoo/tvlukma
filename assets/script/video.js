@@ -15,9 +15,7 @@ const videoList = [
     'assets/videos/11.mp4',
     'assets/videos/12.mp4',
     'assets/videos/13.mp4',
-    'assets/videos/14.mp4',
-    'assets/videos/15.mp4',
-    'assets/videos/16.mp4'
+    'assets/videos/14.mp4'
 ];
 
 let currentVideoIndex = 0;
