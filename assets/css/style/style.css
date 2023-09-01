@@ -121,6 +121,11 @@ body, html {
 }
 
 /* clima */
+.prev_tempo {
+  display: grid;
+  place-content: center;
+}
+
 .widget_weather {
   width: 100%;
   height: 100%;
