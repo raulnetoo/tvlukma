@@ -7,7 +7,6 @@ const videoList = [
     'assets/videos/03.mp4',
     'assets/videos/04.mp4',
     'assets/videos/05.mp4',
-    'https://drive.google.com/file/d/1ou35nlh0F4AQbLFKgbR3hDXhlCeWq7iv/view?usp=drive_link',
     'assets/videos/07.mp4',
     'assets/videos/08.mp4',
     'assets/videos/09.mp4',
