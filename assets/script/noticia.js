@@ -20,6 +20,11 @@ const news = [
     description: 'Em reconhecimento pelos inestimáveis e excepcionais serviços à coletividade.',
     image: 'assets/images/noticia/not04.jpg'
   },
+  {
+    title: 'Bruxinho da sinuca',
+    description: 'O Grupo Lukma tem o orgulho de anunciar que está patrocinando o talentoo Bruxinho da sinuca Baianinho de Mauá.',
+    image: 'assets/images/noticia/not05.jpg'
+  },
   // ... Adicione mais notícias conforme necessário
 ];
 
