@@ -13,13 +13,7 @@ const aniversariantes = [
     descricao: '08 de Setembro',
     setor: 'Setor: Montagem'
   },
-  {
-    imagem: 'assets/images/aniversariante/anv03.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Victor',
-    descricao: '08 de Setembro',
-    setor: 'Setor: Marketing'
-  },
+ 
   {
     imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
@@ -47,13 +41,6 @@ const aniversariantes = [
     nome: 'Barbara',
     descricao: '20 de Setembro',
     setor: 'Setor: ADM'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv08.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Kllaudya',
-    descricao: '30 de Setembro',
-    setor: 'Setor: DP'
   },
   {
     imagem: 'assets/images/aniversariante/anv09.jpeg',
