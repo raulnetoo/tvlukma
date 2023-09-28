@@ -1,55 +1,47 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Chirlene',
-    descricao: '05 de Setembro',
-    setor: 'Setor: Vendas'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv02.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Jhonatas',
-    descricao: '08 de Setembro',
-    setor: 'Setor: Montagem'
-  },
- 
-  {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Cindhel',
-    descricao: '09 de Setembro',
-    setor: 'Setor: Financeiro'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Marcos',
-    descricao: '18 de Setembro',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv06.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Ari',
-    descricao: '19 de Setembro',
-    setor: 'Setor: Motorista'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv07.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Barbara',
-    descricao: '20 de Setembro',
-    setor: 'Setor: ADM'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv09.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Sabrina',
+    nome: 'Sabrina Lukasavicus',
     descricao: '30 de Setembro',
     setor: 'Setor: Compras'
   },
-
+  {
+    imagem: 'assets/images/aniversariante/anv01.png',
+    titulo: 'Aniversariante',
+    nome: 'Silvana Delgado',
+    descricao: '08 de Outubro',
+    setor: 'Setor: Prod. Rele'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv02.png',
+    titulo: 'Aniversariante',
+    nome: 'Marcelino',
+    descricao: '09 de Outubro',
+    setor: 'Setor: Montagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/',
+    titulo: 'Aniversariante',
+    nome: 'Fabio Vieira',
+    descricao: '15 de Outubro',
+    setor: 'Setor: Prod. Rele'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.png',
+    titulo: 'Aniversariante',
+    nome: 'Michele',
+    descricao: '30 de Outubro',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv04.png',
+    titulo: 'Aniversariante',
+    nome: 'Anselmo',
+    descricao: '31 de Outubro',
+    setor: 'Setor: Expedição'
+  },
+  
   // ... Outras informações dos aniversariantes
 ];
 
