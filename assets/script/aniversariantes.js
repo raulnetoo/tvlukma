@@ -21,7 +21,7 @@ const aniversariantes = [
     setor: 'Setor: Montagem'
   },
   {
-    imagem: 'assets/images/aniversariante/',
+    imagem: 'assets/images/aniversariante/anv05.png',
     titulo: 'Aniversariante',
     nome: 'Fabio Vieira',
     descricao: '15 de Outubro',
