@@ -1,47 +1,32 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv09.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Sabrina Lukasavicus',
-    descricao: '30 de Setembro',
-    setor: 'Setor: Compras'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv01.png',
     titulo: 'Aniversariante',
-    nome: 'Silvana Delgado',
-    descricao: '08 de Outubro',
-    setor: 'Setor: Prod. Rele'
+    nome: 'Felipe Neves',
+    descricao: '14 de Novembro',
+    setor: 'Setor: TI'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.png',
     titulo: 'Aniversariante',
-    nome: 'Marcelino',
-    descricao: '09 de Outubro',
-    setor: 'Setor: Montagem'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.png',
-    titulo: 'Aniversariante',
-    nome: 'Fabio Vieira',
-    descricao: '15 de Outubro',
-    setor: 'Setor: Prod. Rele'
+    nome: 'Rennan Alexandre',
+    descricao: '18 de Novembro',
+    setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.png',
     titulo: 'Aniversariante',
-    nome: 'Michele',
-    descricao: '30 de Outubro',
-    setor: 'Setor: Vendas'
+    nome: 'Graziela Monteiro',
+    descricao: '20 de Novembro',
+    setor: 'Setor: Compras'
   },
   {
     imagem: 'assets/images/aniversariante/anv04.png',
     titulo: 'Aniversariante',
-    nome: 'Anselmo',
-    descricao: '31 de Outubro',
-    setor: 'Setor: Expedição'
-  },
-  
+    nome: 'Gabriel',
+    descricao: '28 de Novembro',
+    setor: 'Setor: Vendas'
+  }, 
   // ... Outras informações dos aniversariantes
 ];
 
