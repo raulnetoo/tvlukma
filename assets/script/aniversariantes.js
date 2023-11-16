@@ -13,20 +13,6 @@ const aniversariantes = [
     descricao: '18 de Novembro',
     setor: 'Setor: Expedição'
   },
-  {
-    imagem: 'assets/images/aniversariante/anv03.png',
-    titulo: 'Aniversariante',
-    nome: 'Graziela Monteiro',
-    descricao: '20 de Novembro',
-    setor: 'Setor: Compras'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv04.png',
-    titulo: 'Aniversariante',
-    nome: 'Gabriel',
-    descricao: '28 de Novembro',
-    setor: 'Setor: Vendas'
-  }, 
   // ... Outras informações dos aniversariantes
 ];
 
