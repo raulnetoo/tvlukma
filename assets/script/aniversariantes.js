@@ -1,17 +1,59 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.png',
+    imagem: 'assets/images/aniversariante/anv01.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Felipe Neves',
-    descricao: '14 de Novembro',
-    setor: 'Setor: TI'
+    nome: 'Solange',
+    descricao: '02 de Dezembro',
+    setor: 'Setor: Copas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv02.png',
+    imagem: 'assets/images/aniversariante/anv02.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Rennan Alexandre',
-    descricao: '18 de Novembro',
+    nome: 'Drhavyt',
+    descricao: '10 de Dezembro',
     setor: 'Setor: Expedição'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.jpeg',
+    titulo: 'Aniversariante',
+    nome: 'Raphael',
+    descricao: '15 de Dezembro',
+    setor: 'Setor: Expedição'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv04.jpeg',
+    titulo: 'Aniversariante',
+    nome: 'Manuela',
+    descricao: '16 de Dezembro',
+    setor: 'Setor: Financeiro'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Ana Paula Ferreira',
+    descricao: '23 de Dezembro',
+    setor: 'Setor: Recepção'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpeg',
+    titulo: 'Aniversariante',
+    nome: 'Joseano',
+    descricao: '23 de Dezembro',
+    setor: 'Setor: Jardinagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv07.jpeg',
+    titulo: 'Aniversariante',
+    nome: 'Henrique',
+    descricao: '23 de Dezembro',
+    setor: 'Setor: SAC'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv08.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Raul',
+    descricao: '31 de Dezembro',
+    setor: 'Setor: T.I.'
   },
   // ... Outras informações dos aniversariantes
 ];
