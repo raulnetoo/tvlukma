@@ -45,7 +45,7 @@ const aniversariantes = [
     imagem: 'assets/images/aniversariante/anv07.jpeg',
     titulo: 'Aniversariante',
     nome: 'Henrique',
-    descricao: '23 de Dezembro',
+    descricao: '28 de Dezembro',
     setor: 'Setor: SAC'
   },
   {
