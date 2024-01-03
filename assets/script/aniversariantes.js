@@ -2,58 +2,51 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv01.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Solange',
-    descricao: '02 de Dezembro',
-    setor: 'Setor: Copas'
+    nome: 'Matheus Borsani',
+    descricao: '07 de Janeiro',
+    setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Drhavyt',
-    descricao: '10 de Dezembro',
-    setor: 'Setor: Expedição'
+    nome: 'Lukma Eletric',
+    descricao: '09 de Janeiro',
+    // setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Raphael',
-    descricao: '15 de Dezembro',
-    setor: 'Setor: Expedição'
+    nome: 'Suelen',
+    descricao: '10 de Janeiro',
+    setor: 'Setor: Fiscal'
   },
   {
     imagem: 'assets/images/aniversariante/anv04.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Manuela',
-    descricao: '16 de Dezembro',
-    setor: 'Setor: Financeiro'
+    nome: 'Clau',
+    descricao: '15 de Janeiro',
+    setor: 'Setor: Faturamento'
   },
   {
     imagem: 'assets/images/aniversariante/anv05.jpg',
     titulo: 'Aniversariante',
-    nome: 'Ana Paula Ferreira',
-    descricao: '23 de Dezembro',
-    setor: 'Setor: Recepção'
+    nome: 'Matheus Welington',
+    descricao: '15 de Janeiro',
+    setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv06.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Joseano',
-    descricao: '23 de Dezembro',
-    setor: 'Setor: Jardinagem'
+    nome: 'Marcelo Lukasavicus',
+    descricao: '23 de Janeiro',
+    setor: 'Setor: Diretoria'
   },
   {
     imagem: 'assets/images/aniversariante/anv07.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Henrique',
-    descricao: '28 de Dezembro',
-    setor: 'Setor: SAC'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv08.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Raul',
-    descricao: '31 de Dezembro',
-    setor: 'Setor: T.I.'
+    nome: 'Beatriz',
+    descricao: '27 de Janeiro',
+    setor: 'Setor: DP'
   },
   // ... Outras informações dos aniversariantes
 ];
