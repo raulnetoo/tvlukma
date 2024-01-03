@@ -28,7 +28,7 @@ const aniversariantes = [
     setor: 'Setor: Faturamento'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
+    imagem: 'assets/images/aniversariante/anv05.jpeg',
     titulo: 'Aniversariante',
     nome: 'Matheus Welington',
     descricao: '15 de Janeiro',
