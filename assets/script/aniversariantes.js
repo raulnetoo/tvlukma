@@ -1,12 +1,5 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Matheus Borsani',
-    descricao: '07 de Janeiro',
-    setor: 'Setor: Expedição'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv02.jpeg',
     titulo: 'Aniversariante',
     nome: 'Lukma Eletric',
