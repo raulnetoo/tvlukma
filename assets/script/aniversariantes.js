@@ -1,45 +1,38 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv02.jpeg',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Lukma Eletric',
-    descricao: '09 de Janeiro',
-    // setor: 'Setor: Expedição'
+    nome: 'Ana Carolina',
+    descricao: '03 de Fevereiro',
+    setor: 'Setor: Faturamento'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.jpeg',
+    imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Suelen',
-    descricao: '10 de Janeiro',
-    setor: 'Setor: Analise de Cred.'
+    nome: 'Patricia',
+    descricao: '06 de Fevereiro',
+    setor: 'Setor: Financeiro'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.png',
+    titulo: 'Aniversariante',
+    nome: 'Jaqueline',
+    descricao: '17 de Fevereiro',
+    setor: 'Setor: Vendas'
   },
   {
     imagem: 'assets/images/aniversariante/anv04.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Clau',
-    descricao: '15 de Janeiro',
+    nome: 'Jessica',
+    descricao: '22 de Fevereiro',
     setor: 'Setor: Faturamento'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.jpeg',
+    imagem: 'assets/images/aniversariante/anv05.png',
     titulo: 'Aniversariante',
-    nome: 'Matheus Welington',
-    descricao: '15 de Janeiro',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv06.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Marcelo Lukasavicus',
-    descricao: '23 de Janeiro',
-    setor: 'Setor: Diretoria'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv07.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Beatriz',
-    descricao: '27 de Janeiro',
-    setor: 'Setor: DP'
+    nome: 'Priscila',
+    descricao: '29 de Fevereiro',
+    setor: 'Setor: Vendas'
   },
   // ... Outras informações dos aniversariantes
 ];
