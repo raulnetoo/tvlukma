@@ -2,37 +2,64 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Ana Carolina',
-    descricao: '03 de Fevereiro',
-    setor: 'Setor: Faturamento'
+    nome: 'Gabriela',
+    descricao: '05 de Março',
+    setor: 'Setor: Financeiro'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Patricia',
-    descricao: '06 de Fevereiro',
-    setor: 'Setor: Financeiro'
+    nome: 'Felipe Ferreira',
+    descricao: '11 de Março',
+    setor: 'Setor: Montagem'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.png',
+    imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Jaqueline',
-    descricao: '17 de Fevereiro',
+    nome: 'Gislane',
+    descricao: '11 de Março',
     setor: 'Setor: Vendas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv04.jpeg',
+    imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
-    nome: 'Jessica',
-    descricao: '22 de Fevereiro',
-    setor: 'Setor: Faturamento'
+    nome: 'Fernanda',
+    descricao: '12 de Março',
+    setor: 'Setor: Vendas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.png',
+    imagem: 'assets/images/aniversariante/anv05.jpg',
     titulo: 'Aniversariante',
-    nome: 'Priscila',
-    descricao: '29 de Fevereiro',
-    setor: 'Setor: Vendas'
+    nome: 'Josué',
+    descricao: '13 de Março',
+    setor: 'Setor: PCP'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Lukma Recife',
+    descricao: '16 de Março',
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv07.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Carlinhos',
+    descricao: '23 de Março',
+    setor: 'Setor: PCP'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv08.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Ellen',
+    descricao: '26 de Março',
+    setor: 'Setor: Compras'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv09.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Marquinhos',
+    descricao: '28 de Março',
+    setor: 'Setor: Expedição'
   },
   // ... Outras informações dos aniversariantes
 ];
