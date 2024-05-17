@@ -26,19 +26,9 @@ const news = [
     image: 'assets/images/noticia/not05.jpg'
   },
   {
-    title: 'Grupo Lukma com o OBA2024',
-    description: 'Prepare-se para vivenciar dias intensos de diversão e celebração no OBA2024. A Lukma estará presente para garantir momentos marcantes.',
-    image: 'assets/images/noticia/not06.png'
-  },
-  {
     title: 'Internacional Limeira fecha patrocínio com Lukma',
     description: 'A Internacional divulga oficialmente a parceria com o Grupo Lukma Electric para a sequência da temporada.',
     image: 'assets/images/noticia/not07.png'
-  },
-  {
-    title: 'Lukma 18 Anos',
-    description: 'Chegamos aos 18 com muito orgulho e gratidão!',
-    image: 'assets/images/noticia/not08.png'
   },
   // ... Adicione mais notícias conforme necessário
 ];
