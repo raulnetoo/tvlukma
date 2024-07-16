@@ -2,51 +2,16 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv01.png',
     titulo: 'Aniversariante',
-    nome: 'Adilson',
-    descricao: '02 de Junho',
-    setor: 'Setor: Expedição'
+    nome: 'Larissa',
+    descricao: '06 de Julho',
+    setor: 'Setor: Vendas'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.png',
     titulo: 'Aniversariante',
-    nome: 'Ivania',
-    descricao: '02 de Junho',
-    setor: 'Setor: Pro. Reles'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv03.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Kauan',
-    descricao: '07 de Junho',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Eduardo',
-    descricao: '21 de Junho',
-    setor: 'Setor: Administrativo'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.png',
-    titulo: 'Aniversariante',
-    nome: 'Felipe',
-    descricao: '24 de Junho',
+    nome: 'Caue',
+    descricao: '09 de Julho',
     setor: 'Setor: Montagem'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv06.png',
-    titulo: 'Aniversariante',
-    nome: 'Renato',
-    descricao: '25 de Junho',
-    setor: 'Setor: Supervisor'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv07.png',
-    titulo: 'Aniversariante',
-    nome: 'Debora',
-    descricao: '30 de Junho',
-    setor: 'Setor: Faturamento'
   },
   
   
