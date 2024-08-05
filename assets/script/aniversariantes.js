@@ -1,38 +1,38 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
+    imagem: 'assets/images/aniversariante/anv01.png',
     titulo: 'Aniversariante',
-    nome: 'Ana Paula',
-    descricao: '03 de Julho',
-    setor: 'Setor: Vendas'
+    nome: 'Silvana Renata',
+    descricao: '08 de Agosto',
+    setor: 'Setor: Prod. Rele'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Taianny',
-    descricao: '05 de Julho',
-    setor: 'Setor: Vendas'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv03.png',
-    titulo: 'Aniversariante',
-    nome: 'Larissa',
-    descricao: '06 de Julho',
-    setor: 'Setor: Vendas'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv04.png',
-    titulo: 'Aniversariante',
-    nome: 'Caue',
-    descricao: '09 de Julho',
+    nome: 'Beatriz dos Santos',
+    descricao: '10 de Agosto',
     setor: 'Setor: Montagem'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
+    imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Jucilene',
-    descricao: '31 de Julho',
-    setor: 'Setor: Faturamento'
+    nome: 'Alan de Oliveira',
+    descricao: '13 de Agosto',
+    setor: 'Setor: Prod. Rele'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv04.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Mateus Pereira',
+    descricao: '23 de Agosto',
+    setor: 'Setor: Expedição'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.png',
+    titulo: 'Aniversariante',
+    nome: 'Luiz Rodrigues',
+    descricao: '25 de Agosto',
+    setor: 'Setor: Diretoria'
   },
   
   
