@@ -1,38 +1,52 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.png',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Silvana Renata',
-    descricao: '08 de Agosto',
-    setor: 'Setor: Prod. Rele'
+    nome: 'Chirlene',
+    descricao: '05 de Setembro',
+    setor: 'Setor: Vendas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv02.jpg',
+    imagem: 'assets/images/aniversariante/anv02.png',
     titulo: 'Aniversariante',
-    nome: 'Beatriz dos Santos',
-    descricao: '10 de Agosto',
+    nome: 'Raul Eduardo',
+    descricao: '05 de Setembro',
     setor: 'Setor: Montagem'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Alan de Oliveira',
-    descricao: '13 de Agosto',
-    setor: 'Setor: Prod. Rele'
+    nome: 'Jhonatas',
+    descricao: '08 de Setembro',
+    setor: 'Setor: Montagem'
   },
   {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
+    imagem: 'assets/images/aniversariante/anv04.png',
     titulo: 'Aniversariante',
-    nome: 'Mateus Pereira',
-    descricao: '23 de Agosto',
-    setor: 'Setor: Expedição'
+    nome: 'Rodrigo Matheus',
+    descricao: '09 de Setembro',
+    setor: 'Setor: T.I.'
   },
   {
     imagem: 'assets/images/aniversariante/anv05.png',
     titulo: 'Aniversariante',
-    nome: 'Luiz Rodrigues',
-    descricao: '25 de Agosto',
-    setor: 'Setor: Diretoria'
+    nome: 'Marcos Vinicius',
+    descricao: '18 de Setembro',
+    setor: 'Setor: Expedição'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Murillo',
+    descricao: '26 de Setembro',
+    setor: 'Setor: Montagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv07.png',
+    titulo: 'Aniversariante',
+    nome: 'Sabrina',
+    descricao: '30 de Setembro',
+    setor: 'Setor: Compras'
   },
   
   
