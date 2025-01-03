@@ -1,104 +1,61 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
+    imagem: 'assets/images/aniversariante/anv01.png',
     titulo: 'Aniversariante',
-    nome: 'Solange',
-    descricao: '2 de Dezembro',
-    setor: 'Setor: Limpeza'
+    nome: 'Suelen',
+    descricao: '10 de Janeiro',
+    setor: 'Setor: Analise de Cred.'
   },
   {
-    imagem: 'assets/images/aniversariante/anv02.png',
+    imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Drhavyt',
-    descricao: '10 de Dezembro',
-    setor: 'Setor: Expedição'
+    nome: 'Bruna',
+    descricao: '13 de de Janeiro',
+    setor: 'Setor: Vendas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.jpg',
+    imagem: 'assets/images/aniversariante/anv03.png',
     titulo: 'Aniversariante',
-    nome: 'Gustavo Paulino',
-    descricao: '13 de Dezembro',
-    setor: 'Setor: Montagem'
+    nome: 'Welington',
+    descricao: '14 de de Janeiro',
+    setor: 'Setor: Designer'
   },
   {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
+    imagem: 'assets/images/aniversariante/anv04.JPEG',
     titulo: 'Aniversariante',
-    nome: 'Sofia Cunha',
-    descricao: '14 de Dezembro',
-    setor: 'Setor: Recepção'
+    nome: 'Clau',
+    descricao: '15 de de Janeiro',
+    setor: 'Setor: Faturamento'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
+    imagem: 'assets/images/aniversariante/anv05.png',
     titulo: 'Aniversariante',
-    nome: 'Raphael Rosa',
-    descricao: '15 de Dezembro',
-    setor: 'Setor: Expedição'
+    nome: 'Sofia Oliveira',
+    descricao: '17 de de Janeiro',
+    setor: 'Setor: Financeiro Lukbox'
   },
   {
-    imagem: 'assets/images/aniversariante/anv06.jpg',
+    imagem: 'assets/images/aniversariante/anv06.png',
     titulo: 'Aniversariante',
-    nome: 'Manuela',
-    descricao: '16 de Dezembro',
-    setor: 'Setor: Adm'
+    nome: 'Silmar',
+    descricao: '18 de de Janeiro',
+    setor: 'Setor: PCP'
   },
   {
-    imagem: 'assets/images/aniversariante/anv07.jpg',
+    imagem: 'assets/images/aniversariante/anv07.png',
     titulo: 'Aniversariante',
-    nome: 'Lucas dos Santos',
-    descricao: '17 de Dezembro',
-    setor: 'Setor: Montagem'
+    nome: 'Marcelo Lukasavicus',
+    descricao: '23 de de Janeiro',
+    setor: 'Setor: Diretoria'
   },
   {
     imagem: 'assets/images/aniversariante/anv08.jpg',
     titulo: 'Aniversariante',
-    nome: 'Adriano Marcio',
-    descricao: '20 de Dezembro',
-    setor: 'Setor: Montagem'
+    nome: 'Beatriz Lucas',
+    descricao: '27 de de Janeiro',
+    setor: 'Setor: Faturamento'
   },
-  {
-    imagem: 'assets/images/aniversariante/anv09.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Ana Paula Ferreira',
-    descricao: '23 de Dezembro',
-    setor: 'Setor: DP'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv10.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Joseano',
-    descricao: '23 de Dezembro',
-    setor: 'Setor: Jardinagem'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv11.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Marcel',
-    descricao: '26 de Dezembro',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv12.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Matheus Gabriel',
-    descricao: '26 de Dezembro',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv13.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Henrique Junio',
-    descricao: '28 de Dezembro',
-    setor: 'Setor: SAC'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv14.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Raul Alvarez',
-    descricao: '31 de Dezembro',
-    setor: 'Setor: TI'
-  },
-
-  
+ 
   // ... Outras informações dos aniversariantes
 ];
 
