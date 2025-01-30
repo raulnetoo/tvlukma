@@ -1,60 +1,69 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.png',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Suelen',
-    descricao: '10 de Janeiro',
-    setor: 'Setor: Analise de Cred.'
+    nome: 'Eliana',
+    descricao: '06 de Fevereiro',
+    setor: 'Setor: Faturamento'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Bruna',
-    descricao: '13 de de Janeiro',
+    nome: 'Patricia Lukasavicus',
+    descricao: '06 de Fevereiro',
+    setor: 'Setor: Financeiro'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Nicolle',
+    descricao: '06 de Fevereiro',
     setor: 'Setor: Vendas'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.png',
+    imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
-    nome: 'Welington',
-    descricao: '14 de de Janeiro',
-    setor: 'Setor: Designer'
+    nome: 'Nicolas',
+    descricao: '08 de Fevereiro',
+    setor: 'Setor: Montagem'
   },
   {
-    imagem: 'assets/images/aniversariante/anv04.JPEG',
+    imagem: 'assets/images/aniversariante/anv05.jpg',
     titulo: 'Aniversariante',
-    nome: 'Clau',
-    descricao: '15 de de Janeiro',
+    nome: 'Jaqueline',
+    descricao: '17 de Fevereiro',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Cido',
+    descricao: '17 de Fevereiro',
+    setor: 'Setor: Montagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv07.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Jessica',
+    descricao: '22 de Fevereiro',
     setor: 'Setor: Faturamento'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.png',
+    imagem: 'assets/images/aniversariante/anv08.png',
     titulo: 'Aniversariante',
-    nome: 'Sofia Oliveira',
-    descricao: '17 de de Janeiro',
-    setor: 'Setor: Financeiro Lukbox'
+    nome: 'Mateus',
+    descricao: '27 de Fevereiro',
+    setor: 'Setor: Expedição'
   },
+
   {
-    imagem: 'assets/images/aniversariante/anv06.png',
+    imagem: 'assets/images/aniversariante/anv09.jpg',
     titulo: 'Aniversariante',
-    nome: 'Silmar',
-    descricao: '18 de de Janeiro',
-    setor: 'Setor: PCP'
+    nome: 'Richard',
+    descricao: '27 de Fevereiro',
+    setor: 'Setor: Expedição'
   },
-  {
-    imagem: 'assets/images/aniversariante/anv07.png',
-    titulo: 'Aniversariante',
-    nome: 'Marcelo Lukasavicus',
-    descricao: '23 de de Janeiro',
-    setor: 'Setor: Diretoria'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv08.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Beatriz Lucas',
-    descricao: '27 de de Janeiro',
-    setor: 'Setor: Faturamento'
-  },
+ 
  
   // ... Outras informações dos aniversariantes
 ];
