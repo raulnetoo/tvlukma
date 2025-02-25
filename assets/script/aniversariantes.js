@@ -1,54 +1,5 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Eliana',
-    descricao: '06 de Fevereiro',
-    setor: 'Setor: Faturamento'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv02.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Patricia Lukasavicus',
-    descricao: '06 de Fevereiro',
-    setor: 'Setor: Financeiro'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv03.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Nicolle',
-    descricao: '06 de Fevereiro',
-    setor: 'Setor: Vendas'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Nicolas',
-    descricao: '08 de Fevereiro',
-    setor: 'Setor: Montagem'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Jaqueline',
-    descricao: '17 de Fevereiro',
-    setor: 'Setor: Vendas'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv06.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Cido',
-    descricao: '17 de Fevereiro',
-    setor: 'Setor: Montagem'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv07.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Jessica',
-    descricao: '22 de Fevereiro',
-    setor: 'Setor: Faturamento'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv08.png',
     titulo: 'Aniversariante',
     nome: 'Mateus',
@@ -63,6 +14,42 @@ const aniversariantes = [
     descricao: '27 de Fevereiro',
     setor: 'Setor: Expedição'
   },
+  {
+    imagem: 'assets/images/aniversariante/anv01.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Priscila',
+    descricao: '01 de Março',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv02.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Luzia',
+    descricao: '03 de Março',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Gislane',
+    descricao: '11 de Março',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv04.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Fernanda',
+    descricao: '12 de Março',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Marcos',
+    descricao: '28 de Março',
+    setor: 'Setor: Expedição'
+  },
+
  
  
   // ... Outras informações dos aniversariantes
