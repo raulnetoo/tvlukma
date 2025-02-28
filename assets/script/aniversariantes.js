@@ -1,20 +1,5 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv08.png',
-    titulo: 'Aniversariante',
-    nome: 'Mateus',
-    descricao: '27 de Fevereiro',
-    setor: 'Setor: Expedição'
-  },
-
-  {
-    imagem: 'assets/images/aniversariante/anv09.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Richard',
-    descricao: '27 de Fevereiro',
-    setor: 'Setor: Expedição'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
     nome: 'Priscila',
@@ -27,6 +12,13 @@ const aniversariantes = [
     nome: 'Luzia',
     descricao: '03 de Março',
     setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.png',
+    titulo: 'Aniversariante',
+    nome: 'Gabriela',
+    descricao: '05 de Março',
+    setor: 'Setor: Financeiro'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.jpg',
