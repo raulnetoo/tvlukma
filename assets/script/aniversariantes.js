@@ -1,47 +1,39 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
+    imagem: 'assets/images/aniversariante/anv01.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Priscila',
-    descricao: '01 de Março',
-    setor: 'Setor: Vendas'
+    nome: 'Andreia',
+    descricao: '02 de Abril',
+    setor: 'Setor: DP'
   },
   {
-    imagem: 'assets/images/aniversariante/anv02.jpg',
+    imagem: 'assets/images/aniversariante/vazio.jpg',
     titulo: 'Aniversariante',
-    nome: 'Luzia',
-    descricao: '03 de Março',
-    setor: 'Setor: Vendas'
+    nome: 'Thaisa',
+    descricao: '07 de Abril',
+    setor: 'Setor: Fiscal'
   },
   {
-    imagem: 'assets/images/aniversariante/anv06.png',
+    imagem: 'assets/images/aniversariante/anv03.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Gabriela',
-    descricao: '05 de Março',
-    setor: 'Setor: Financeiro'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv03.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Gislane',
-    descricao: '11 de Março',
-    setor: 'Setor: Vendas'
+    nome: 'Patricia',
+    descricao: '22 de Abril',
+    setor: 'Setor: DP'
   },
   {
     imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
-    nome: 'Fernanda',
-    descricao: '12 de Março',
-    setor: 'Setor: Vendas'
+    nome: 'Matheus',
+    descricao: '25 de Abril',
+    setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv05.jpg',
     titulo: 'Aniversariante',
-    nome: 'Marcos',
-    descricao: '28 de Março',
-    setor: 'Setor: Expedição'
+    nome: 'Marcus',
+    descricao: '26 de Abril',
+    setor: 'Setor: Montagem'
   },
-
  
  
   // ... Outras informações dos aniversariantes
