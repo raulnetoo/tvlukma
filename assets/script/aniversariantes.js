@@ -7,7 +7,7 @@ const aniversariantes = [
     setor: 'Setor: DP'
   },
   {
-    imagem: 'assets/images/aniversariante/vazio.jpg',
+    imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
     nome: 'Thaisa',
     descricao: '07 de Abril',
