@@ -28,6 +28,13 @@ const aniversariantes = [
     setor: 'Setor: Expedição'
   },
   {
+    imagem: 'assets/images/aniversariante/anv06.png',
+    titulo: 'Aniversariante',
+    nome: 'Rodrigo Lukasavicus',
+    descricao: '25 de Abril',
+    setor: 'Setor: Diretoria'
+  },
+  {
     imagem: 'assets/images/aniversariante/anv05.jpg',
     titulo: 'Aniversariante',
     nome: 'Marcus',
