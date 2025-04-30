@@ -1,46 +1,33 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpeg',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Andreia',
-    descricao: '02 de Abril',
-    setor: 'Setor: DP'
+    nome: 'Aline ',
+    descricao: '04 de Maio',
+    setor: 'Setor: Compras'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Thaisa',
-    descricao: '07 de Abril',
-    setor: 'Setor: Fiscal'
+    nome: 'Hanna',
+    descricao: '14 de Maio',
+    setor: 'Setor: Recepção'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.jpeg',
+    imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Patricia',
-    descricao: '22 de Abril',
-    setor: 'Setor: DP'
+    nome: 'Fabiola',
+    descricao: '28 de Maio',
+    setor: 'Setor: Compras'
   },
   {
     imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
-    nome: 'Matheus',
-    descricao: '25 de Abril',
-    setor: 'Setor: Expedição'
+    nome: 'Katia',
+    descricao: '29 de Maio',
+    setor: 'Setor: Cobrança'
   },
-  {
-    imagem: 'assets/images/aniversariante/anv06.png',
-    titulo: 'Aniversariante',
-    nome: 'Rodrigo Lukasavicus',
-    descricao: '25 de Abril',
-    setor: 'Setor: Diretoria'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Marcus',
-    descricao: '26 de Abril',
-    setor: 'Setor: Montagem'
-  },
+  
  
  
   // ... Outras informações dos aniversariantes
