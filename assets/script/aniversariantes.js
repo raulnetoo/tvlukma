@@ -1,6 +1,6 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
+    imagem: 'assets/images/aniversariante/anv01.png',
     titulo: 'Aniversariante',
     nome: 'Aline ',
     descricao: '04 de Maio',
