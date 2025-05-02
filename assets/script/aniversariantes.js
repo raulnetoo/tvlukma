@@ -23,6 +23,13 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
+    nome: 'Rosimeire',
+    descricao: '27 de Maio',
+    setor: 'Setor: Supervisora de vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
     nome: 'Katia',
     descricao: '29 de Maio',
     setor: 'Setor: Cobrança'
