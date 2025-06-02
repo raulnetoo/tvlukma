@@ -1,38 +1,52 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.png',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Aline ',
-    descricao: '04 de Maio',
-    setor: 'Setor: Compras'
+    nome: 'Adilson ',
+    descricao: '02 de Junho',
+    setor: 'Setor: PCP'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Hanna',
-    descricao: '14 de Maio',
-    setor: 'Setor: Recepção'
+    nome: 'Kauan',
+    descricao: '07 de Junho',
+    setor: 'Setor: Expedição'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Fabiola',
-    descricao: '28 de Maio',
-    setor: 'Setor: Compras'
+    nome: 'Daniel',
+    descricao: '09 de Junho',
+    setor: 'Setor: Expedição'
   },
   {
-    imagem: 'assets/images/aniversariante/anv04.jpg',
+    imagem: 'assets/images/aniversariante/anv04.png',
     titulo: 'Aniversariante',
-    nome: 'Rosimeire',
-    descricao: '27 de Maio',
-    setor: 'Setor: Supervisora de vendas'
+    nome: 'Ana Paula',
+    descricao: '12 de Junho',
+    setor: 'Setor: Qualidade'
   },
   {
-    imagem: 'assets/images/aniversariante/anv05.jpg',
+    imagem: 'assets/images/aniversariante/anv05.jpeg',
     titulo: 'Aniversariante',
-    nome: 'Katia',
-    descricao: '29 de Maio',
-    setor: 'Setor: Cobrança'
+    nome: 'Eduardo',
+    descricao: '21 de Junho',
+    setor: 'Setor: Financeiro'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Felipe',
+    descricao: '24 de Junho',
+    setor: 'Setor: Montagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv07.png',
+    titulo: 'Aniversariante',
+    nome: 'Renato',
+    descricao: '25 de Junho',
+    setor: 'Setor: Supervisor'
   },
   
  
