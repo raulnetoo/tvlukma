@@ -1,53 +1,54 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Adilson ',
-    descricao: '02 de Junho',
-    setor: 'Setor: PCP'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv02.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Kauan',
-    descricao: '07 de Junho',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv03.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Daniel',
-    descricao: '09 de Junho',
-    setor: 'Setor: Expedição'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv04.png',
-    titulo: 'Aniversariante',
-    nome: 'Ana Paula',
-    descricao: '12 de Junho',
-    setor: 'Setor: Qualidade'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv05.jpeg',
-    titulo: 'Aniversariante',
-    nome: 'Eduardo',
-    descricao: '21 de Junho',
-    setor: 'Setor: Financeiro'
-  },
-  {
-    imagem: 'assets/images/aniversariante/anv06.jpg',
-    titulo: 'Aniversariante',
-    nome: 'Felipe',
-    descricao: '24 de Junho',
-    setor: 'Setor: Montagem'
-  },
-  {
     imagem: 'assets/images/aniversariante/anv07.png',
     titulo: 'Aniversariante',
     nome: 'Renato',
     descricao: '25 de Junho',
     setor: 'Setor: Supervisor'
   },
+  {
+    imagem: 'assets/images/aniversariante/anv01.png',
+    titulo: 'Aniversariante',
+    nome: 'Ellen',
+    descricao: '04 de Julho',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv02.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Taianny',
+    descricao: '05 de Julho',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv03.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Larissa',
+    descricao: '06 de Julho',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv04.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Yasmin',
+    descricao: '07 de Julho',
+    setor: 'Setor: Expedição'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Marcus',
+    descricao: '08 de Julho',
+    setor: 'Setor: Montagem'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Sara',
+    descricao: '10 de Julho',
+    setor: 'Setor: Prod. Reles'
+  },
+ 
   
  
  
