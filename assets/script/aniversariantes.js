@@ -1,6 +1,6 @@
 const aniversariantes = [
   {
-    imagem: 'assets/images/aniversariante/anv01.lpg',
+    imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
     nome: 'Silvana',
     descricao: '08 de Agosto',
