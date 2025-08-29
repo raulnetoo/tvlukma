@@ -2,23 +2,51 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Silvana',
-    descricao: '08 de Agosto',
-    setor: 'Setor: Prod. Reles'
+    nome: 'Lucas',
+    descricao: '01 de Setembro',
+    setor: 'Setor: PCP'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Alan',
-    descricao: '13 de Agosto',
-    setor: 'Setor: Prod. Reles'
+    nome: 'Rafael',
+    descricao: '01 de Setembro',
+    setor: 'Setor: TI'
   },
   {
-    imagem: 'assets/images/aniversariante/anv03.png',
+    imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Luiz Matos',
-    descricao: '25 de Agosto',
-    setor: 'Setor: Diretoria'
+    nome: 'Rhennan',
+    descricao: '11 de Setembro',
+    setor: 'Setor: SAC'
+  },
+    {
+    imagem: 'assets/images/aniversariante/anv04.png',
+    titulo: 'Aniversariante',
+    nome: 'Marcos',
+    descricao: '18 de Setembro',
+    setor: 'Setor: Expedição'
+  },
+    {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Yuri',
+    descricao: '25 de Setembro',
+    setor: 'Setor: PCP'
+  },
+    {
+    imagem: 'assets/images/aniversariante/anv06.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Murillo',
+    descricao: '26 de Setembro',
+    setor: 'Setor: Montagem'
+  },
+    {
+    imagem: 'assets/images/aniversariante/anv07.png',
+    titulo: 'Aniversariante',
+    nome: 'Sabrina',
+    descricao: '30 de Setembro',
+    setor: 'Setor: Compras'
   },
  
   // ... Outras informações dos aniversariantes
