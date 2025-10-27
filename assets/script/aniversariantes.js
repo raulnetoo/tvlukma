@@ -2,30 +2,37 @@ const aniversariantes = [
   {
     imagem: 'assets/images/aniversariante/anv01.jpg',
     titulo: 'Aniversariante',
-    nome: 'Silvana',
-    descricao: '08 de Outubro',
-    setor: 'Setor: Prod. Reles'
+    nome: 'Cesare',
+    descricao: '05 de Novembro',
+    setor: 'Setor: Compras'
   },
   {
     imagem: 'assets/images/aniversariante/anv02.jpg',
     titulo: 'Aniversariante',
-    nome: 'Marcelino',
-    descricao: '09 de Outubro',
-    setor: 'Setor: Montagem'
+    nome: 'Felipe',
+    descricao: '14 de Novembro',
+    setor: 'Setor: TI'
   },
   {
     imagem: 'assets/images/aniversariante/anv03.jpg',
     titulo: 'Aniversariante',
-    nome: 'Fabio',
-    descricao: '15 de Outubro',
-    setor: 'Setor: Prod. Reles'
+    nome: 'Rennan',
+    descricao: '18 de Novembro',
+    setor: 'Setor: Expedição'
   },
-    {
+  {
     imagem: 'assets/images/aniversariante/anv04.jpg',
     titulo: 'Aniversariante',
-    nome: 'Higor',
-    descricao: '17 de Outubro',
-    setor: 'Setor: Expedição'
+    nome: 'Priscila Borges',
+    descricao: '23 de Novembro',
+    setor: 'Setor: Vendas'
+  },
+  {
+    imagem: 'assets/images/aniversariante/anv05.jpg',
+    titulo: 'Aniversariante',
+    nome: 'Gabriel',
+    descricao: '23 de Novembro',
+    setor: 'Setor: Montagem'
   },
   // ... Outras informações dos aniversariantes
 ];
